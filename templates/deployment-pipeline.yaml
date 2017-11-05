@@ -66,8 +66,6 @@ Resources:
         Type: AWS::S3::Bucket
         DeletionPolicy: Retain
 
-
-
     TeamCityBuildActionType:
         Type: AWS::CodePipeline::CustomActionType
         Properties:

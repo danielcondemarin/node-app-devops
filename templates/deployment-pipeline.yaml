@@ -33,7 +33,6 @@ Parameters:
         Description: Action Id for Codepipeline integration with TeamCity
         Type: String
 
-
 Resources:
    
     CodePipelineServiceRole:
